@@ -5,22 +5,13 @@ Analysis for each one of the Index, per two years 2018 and 2017, the Volume oper
 ### Purpose
 Based on the data provided for stick analysis, it is needed to used VBA on Excel to provide analysis  comments on how different are the volumes per Index operated over each year 2017 and 2018 and calculate teh return per Index.
 ## Results
-1. For 2017, 
+1. For 2017, Almost all Indexes obtained positive returns, except one. Volume showed represents that all Indexes are operated constantly during the year.
 - ![VBA_Challenge_2017](https://github.com/Jcreye75/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) 
+2. For 2018, In contract to 2017,  almost all Indexes obtained NEGATIVE returns. Volume maintained, so it can be assume that the market in general showed a reduction in the the general return.
 - ![VBA_Challenge_2018](https://github.com/Jcreye75/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. Best outcome brought to theater occurs from May to August.
-2. February and October are also good months because on both months the tendency reverts (change from negative to positive). 
-3. No matter if the outcome is successful or failed, the movements explained above are shown in both lines.
-4. December is a bad month for successful outcome as it reached the same amount as the failed projects.
+- -
+-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+1. Yes, the advantage on the refactoring one is that you are using a related variable which help us to run the macro no matter how many Indexes are, even it can be done with additional programation so If an additional Index is added or deleted it can be updated automatically, instead of assign a direct value to each "Tickers" array.
 
-- What can you conclude about the Outcomes based on Goals?
-1. The successful percentage of plays based on Goals exceed 50% with Goals below $15,000 and between $35,000 to $45,000.
-2. The rest of ranges, Failed plays exceed the successful ones.
-3. Worst goals are presented for plays with outcome greater than $45,000.
-
-- What are some limitations of this dataset?
-1. What I can mention as a limitation is that data does not include external factors as economic situations per year or per country, which may affect the outcome of the Theater and Plays.
-
-- What are some other possible tables and/or graphs that we could create?
-1. You can elaborate Tables and graphs per country to verify is same visual effect happens in each country and calculates any correlation maybe by region.
+There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
+1. Yes, the original script can be use only if all the indexes are maintained during the two years, if any is added or deteled, the script wont work.
