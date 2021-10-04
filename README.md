@@ -5,8 +5,9 @@ Analysis for each one of the Index, per two years 2018 and 2017, the Volume oper
 ### Purpose
 Based on the data provided for stick analysis, it is needed to used VBA on Excel to provide analysis  comments on how different are the volumes per Index operated over each year 2017 and 2018 and calculate teh return per Index.
 ## Results
-- ![Theater_Outcomes_vs_Launch](https://github.com/Jcreye75/kickstarter-analysis/blob/aa055c62cbec50b0dd4682f3b484c799746f4d97/resources/Theater_Outcomes_vs_Launch.png) 
-- ![Outcomes Based on Goal](https://github.com/Jcreye75/kickstarter-analysis/blob/c9d7c9db6bbfa63772f01b0c17936de8ba5d18c8/resources/Outcomes%20Based%20on%20Goal.png)
+1. For 2017, 
+- ![VBA_Challenge_2017](https://github.com/Jcreye75/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) 
+- ![VBA_Challenge_2018](https://github.com/Jcreye75/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. Best outcome brought to theater occurs from May to August.
 2. February and October are also good months because on both months the tendency reverts (change from negative to positive). 
